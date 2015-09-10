@@ -1,0 +1,82 @@
+Java
+03/10/15
+test 1 
+Syntax
+2
+object
+
+//An O.O Application -- A bunch of objects that interact with each other to accomplish a task.
+///3 Different types of objects-- Data acces object 
+--middle is  called a business objects
+--third presentation object-- Windows,Html,
+Data access- SQL-- 
+	data access information
+--NOT all objects have to have a main method(1 main method to start the application)
+--OBJECTS test each main objects first 
+--OBJECT- has two attributes Property(data) and behaviors (action)
+DIFFERECE-
+	Object is an instance of a Class
+
+CLASS         
+Student
+Frame Frame 
+
+
+Objects---Is an instants of a class
+1 Bill-Frame
+  Smith- Frame 
+2. Mary Jane-Frame
+  John -Frame
+3. Tim  - Frame
+   John Doe- Frame
+  
+3 OO Concepts
+
+1. Encapsulation-Study~~
+		
+2.Inheritance-Study~~
+	
+
+3.Polymorphism-Study~~
+	Many changing forms-- The Hulk;
+
+private string frame;
+
+public set frame()	
+
+public class Custumer{
+//Property
+private string Fname,lname,address;
+
+behavior;
+public void setFrame(String Bill){
+
+}
+public void getFrame{
+return frame;
+}
+public void display(){
+System.out.println(" Fname=+fname")
+""
+""
+}
+public stactic void main(String args[]){
+Customer c1= newCustomer();
+c1= set frame("bill ");
+c1= set frame("Clinton");
+c1= set frame("Ark");
+c1= display();
+
+}
+
+
+
+
+
+
+
+
+
+}//end class
+	
+	

@@ -1,0 +1,19 @@
+ public static void main(String[] args) {
+       //Creating the Array
+        double [] myArr = new double[100];
+        
+       
+        
+        for(int t = 0; t < 100; t++){
+        
+            myArr[t] = t+500;
+            
+        }
+        for(int t = 0; t < 100; t++)
+        {
+        System.out.println(myArr[t]);
+        
+        }
+    }
+    
+}
