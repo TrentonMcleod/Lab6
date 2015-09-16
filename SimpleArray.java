@@ -17,7 +17,7 @@ public class SimpleArray {
       //i hopper
         
         for(int t = 0; t < 100; t++){
-        
+        //Who is the real hopper
             myArr[t] = t+500;
             
         }
