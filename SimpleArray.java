@@ -14,7 +14,7 @@ public class SimpleArray {
        //Creating the Array
         double [] myArr = new double[100];
         
-      //i hop
+      //i hopper
         
         for(int t = 0; t < 100; t++){
         
